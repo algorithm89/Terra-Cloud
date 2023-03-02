@@ -25,4 +25,6 @@ variable "ami_id" {
    error_message = "Please provide a valid value for variable AMI."
  }
 }
+
+
  
