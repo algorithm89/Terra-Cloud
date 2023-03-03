@@ -31,4 +31,5 @@ instance_type = "t3.micro"
 subnet_id = "${module.MYVPC.subnet_id}"
 
 
+
 }
